@@ -1,4 +1,4 @@
-
+Enhance Figma for macOS with premium Extension for Figma for macOS - non-destructive editing and smart objects, the #1 extension. Includes non-destructive editing and smart
 
 
 
